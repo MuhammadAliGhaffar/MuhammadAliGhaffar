@@ -12,4 +12,4 @@ Hi, I'm Muhammad Ali Ghaffar , a passionate self-taught Android developer and a 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliGhaffar&show_icons=true&theme=gotham" alt="MuhammadAliGhaffar" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliGhaffar&show_icons=true&hide_border=true" alt="MuhammadAliGhaffar" />
