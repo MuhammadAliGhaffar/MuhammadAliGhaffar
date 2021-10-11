@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Get in touch
-* **Linkedin** https://www.linkedin.com/in/muhammadalighaffar/
+[//]: <> (### Get in touch)
+[//]: <> (* **Linkedin** https://www.linkedin.com/in/muhammadalighaffar/)
 
 **Glad to see you here** :heart_eyes:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadAliGhaffar&label=Views&color=blue&style=plastic" alt="MuhammadAliGhaffar" /> </p>
